@@ -1,3 +1,5 @@
 # ai-for-the-arts
 i would like to understand code better
-this is used for holidng all of my files and lab work together
+
+this repository is used to keep track of all my files, and store them in one place with version control
+
