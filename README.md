@@ -27,8 +27,7 @@ This notebook introduces a design for an AI-powered tool that helps heritage pro
 
 | Notebook Title | Description |
 |----------------|-------------|
-| `coding_excercises.ipynb` | Introduction to large language models and simple NLP tools using Python. |
-| `coding_exercises.ipynb` | Working with datasets in the humanities — text cleaning, tokenisation, and sentiment analysis. |
+| `coding_excercises.ipynb` | Introduction to large language models and simple coding tasks |
 | `AI_For_The_Arts_Folio.ipynb` | **Decolonise the Data** — A design proposal for a creative LLM application. |
 
 ---
